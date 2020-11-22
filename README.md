@@ -51,11 +51,22 @@ How to use Dataset and DataLoader
   4. Instantiation of the model class, the loss function (here, crossentropy), and the optimizer function to use (SDG, Adam, RMSprop, Adadelta, etc.)
   5. Training of the model for accuracy
   
-**DSTI_DL_Lab5**: Approximation of a Function
+**DSTI_DL_Lab5**: Approximation of a Function to understand Benefits of Depth
 -----
 Function approximation with a deep neural network
   1. Working with a quartic function (a polynomial function of degree 4) and training some dataset on it
   2. Approximation with a deep neural network
   3. Approximation with a shallow neural network
   
- 
+**DSTI_DL_Lab6**: Dropout and Batch Normalization for Regularization
+----- 
+MNIST handwritten digits classification with regularized Multi-Layer Perceptrons (MLPs) model
+  1. Data loading
+  2. Building MLP model
+      - Defining "Convolution" architecture (Deep CNN network)
+      - Defining "Dropout" architecture
+      - Defining "Batch Normalization" architecture
+  3. Learning - Training and Testing of the model
+      - Training without Dropout
+      - Training with Dropout
+      - Traing with Batch Normalization
