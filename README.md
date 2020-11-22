@@ -4,7 +4,7 @@ Algorithms, concepts, and logics based on PyTorch and TensorFlow
 
 A summary of which lab covers what topic:
 
-**DSTI_DL_Lab1**
+**DSTI_DL_Lab1**: Pytorch Basics
 ---------
 1. Introduction to tensor and its implementation
 2. Conversion between numpy and tensors
@@ -14,7 +14,7 @@ A summary of which lab covers what topic:
 6. Computational graphs
 7. An example of Linear Regression using PyTorch
 
-**DSTI_DL_Lab2**
+**DSTI_DL_Lab2**: Computational Graph and Optimizer
 -----
 Autograd: Automatic differentiation 
   1. Visualizing the computational graph
@@ -28,7 +28,7 @@ Playing with a neural network in pytorch: non-linear regression
   3. Neural network with automatic gradient computation (but still the explicit estimate update)
   4. Neural network with automatic gradient computation and automatic estimate update
 
-**DSTI_DL_Lab3**
+**DSTI_DL_Lab3**: Convolutional Neural Network
 -----
 Training a classifier
 How to use Dataset and DataLoader
@@ -41,7 +41,7 @@ Training an image classifier
   4. Train the network on the training data
   5. Test the network on the test data
  
-**DSTI_DL_Lab4**
+**DSTI_DL_Lab4**: Run a Neural Network on GPU
 -----
 Neural Network on GPU (MNIST Classifier problem)
 How to use Dataset and DataLoader
@@ -51,7 +51,7 @@ How to use Dataset and DataLoader
   4. Instantiation of the model class, the loss function (here, crossentropy), and the optimizer function to use (SDG, Adam, RMSprop, Adadelta, etc.)
   5. Training of the model for accuracy
   
-**DSTI_DL_Lab5**
+**DSTI_DL_Lab5**: Approximation of a Function
 -----
 Function approximation with a deep neural network
   1. Working with a quartic function (a polynomial function of degree 4) and training some dataset on it
