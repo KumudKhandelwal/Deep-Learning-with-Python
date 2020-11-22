@@ -2,7 +2,7 @@
 Algorithms, concepts, and logics based on PyTorch and Tensorflow
 
 
-A summary of which lab covers what topic.
+A summary of which lab covers what topic:
 
 **DSTI_DL_Lab1**
 ---------
