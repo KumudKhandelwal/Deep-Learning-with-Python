@@ -1,5 +1,5 @@
 # Deep-Learning-with-Python
-Algorithms, concepts, and logics based on PyTorch and Tensorflow
+Algorithms, concepts, and logics based on PyTorch and TensorFlow
 
 
 A summary of which lab covers what topic:
@@ -50,3 +50,12 @@ How to use Dataset and DataLoader
   3. Defining a model class to build Neural Network
   4. Instantiation of the model class, the loss function (here, crossentropy), and the optimizer function to use (SDG, Adam, RMSprop, Adadelta, etc.)
   5. Training of the model for accuracy
+  
+**DSTI_DL_Lab5**
+-----
+Function approximation with a deep neural network
+  1. Working with a quartic function (a polynomial function of degree 4) and training some dataset on it
+  2. Approximation with a deep neural network
+  3. Approximation with a shallow neural network
+  
+ 
