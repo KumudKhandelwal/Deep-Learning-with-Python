@@ -1,5 +1,5 @@
 # Deep-Learning-with-Python
-Algorithms, concepts, and logics based on PyTorch and TensorFlow
+Algorithms, concepts, and logical implementation using PyTorch.
 
 
 A summary of which lab covers what topic:
